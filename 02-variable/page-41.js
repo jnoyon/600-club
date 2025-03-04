@@ -1,5 +1,6 @@
-// Chapter Two : Page No 41
-
+// Chapter Two (Variable) : Page No 41
+// String Related Problem
+// Total Practice: (This File: 7, Total: 14) 
 
 const name = 'Jihadur Rahman Noyon';
 const address = 'Bhaluka, Mymensingh';

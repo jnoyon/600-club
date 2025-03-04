@@ -1,4 +1,6 @@
-// Chapter Two : Page No 42
+// Chapter Two (Variable) : Page No 42
+// Boolean Related Problem
+// Total Practice: (This File: 7, Total: 21) 
 
 const isFriendHappy = false;
 console.log(isFriendHappy);
