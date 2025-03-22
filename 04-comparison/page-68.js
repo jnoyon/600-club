@@ -1,4 +1,4 @@
-// Chapter Three (Data Type) : Page No 68
+// Chapter Four (Comparison)  : Page No 68
 // Comparison Related Problem
 // Total Practice: (This File: 7, Total: 65 + 7 = 72)
 

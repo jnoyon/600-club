@@ -1,4 +1,4 @@
-// Chapter Three (Data Type) : Page No 77
+// Chapter Five (Conditional Statement)  : Page No 77
 // Conditional Statement Related Problem
 // Total Practice: (This File: 6, Total: 87 + 6 = 93)
 
