@@ -1,5 +1,5 @@
 /*
-Chapter Name: Variable
+Chapter Name: Comparison
 Page No: 70
 This File: 8
 Total Practice: 86

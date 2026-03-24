@@ -1,5 +1,5 @@
 /*
-Chapter Name: Variable
+Chapter Name: If else
 Page No: 90
 This File: 7
 Total Practice: 120
